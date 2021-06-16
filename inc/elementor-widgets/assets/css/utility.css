@@ -1,0 +1,39 @@
+/* -------------------------
+:: utility Class
+---------------------------- */
+.listingo-pt-100 {
+    padding-top: 100px;
+}
+.listingo-pt-80 {
+    padding-top: 80px;
+}
+.listingo-pt-70 {
+    padding-top: 70px;
+}
+.listingo-pt-60 {
+    padding-top: 60px;
+}
+.listingo-pt-50 {
+    padding-top: 50px;
+}
+.listingo-pt-30 {
+    padding-top: 30px;
+}
+.listingo-pb-100 {
+    padding-bottom: 100px;
+}
+.listingo-pb-80 {
+    padding-bottom: 80px;
+}
+.listingo-pb-70 {
+    padding-bottom: 70px;
+}
+.listingo-pb-60 {
+    padding-bottom: 60px;
+}
+.listingo-pb-50 {
+    padding-bottom: 50px;
+}
+.listingo-pb-30 {
+    padding-bottom: 30px;
+}
